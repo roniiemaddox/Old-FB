@@ -1,4 +1,5 @@
-OLD FACEBOOK ACCOUNT CLONE
+OLD FACEBOOK ACCOUNT CLONE TOOL
+
 rm -rf Old-FB
 git clone https://github.com/Rizwanali444/Old-FB
 cd Old-FB
