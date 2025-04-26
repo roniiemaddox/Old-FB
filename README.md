@@ -1,6 +1,3 @@
-OLD FACEBOOK ACCOUNT CLONE TOOL
-
-
 rm -rf Old-FB
 git clone --depth=1 https://github.com/Rizwanali444/Old-FB
 cp Old-FB/a1 $HOME/a1
